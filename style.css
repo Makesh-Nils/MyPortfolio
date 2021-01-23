@@ -456,6 +456,12 @@ body{
         margin-bottom: 80px;
     }
 
+    .arrow a{
+        display:inline-block;
+        margin-top: -30px;
+        height:40px;
+    }
+
     #contact{
         margin-bottom:100px;
     }
