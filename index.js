@@ -65,7 +65,7 @@ function fadeOutEffect() {
             clearInterval(fadeEffect);
             loaders.style.zIndex = -19;
         }
-    }, 2000);
+    }, 1500);
 }
 
 toggle_btn.addEventListener("click",function(){
